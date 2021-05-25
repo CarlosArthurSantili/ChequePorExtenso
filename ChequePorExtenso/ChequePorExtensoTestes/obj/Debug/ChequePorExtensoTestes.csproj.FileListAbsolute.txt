@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\ChequePorExtensoTestes.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\ChequePorExtensoTestes.pdb
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\obj\Debug\ChequePorExtensoTestes.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\obj\Debug\ChequePorExtensoTestes.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\obj\Debug\ChequePorExtensoTestes.csproj.CopyComplete
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\obj\Debug\ChequePorExtensoTestes.dll
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\obj\Debug\ChequePorExtensoTestes.pdb
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\ChequePorExtenso.exe
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\ChequePorExtenso.pdb
+C:\Users\Carlos\source\repos\ChequePorExtenso\ChequePorExtensoTestes\bin\Debug\ChequePorExtenso.exe.config
